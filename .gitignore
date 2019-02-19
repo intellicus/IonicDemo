@@ -1,0 +1,19 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+*~
+
+IntegrationPOC/.sourcemaps/
+IntegrationPOC/node_modules/
+IntegrationPOC/platforms/
+IntegrationPOC/plugins/
+IntegrationPOC/plugins/android.json
+IntegrationPOC/plugins/ios.json
+IntegrationPOC/www/
+
+$RECYCLE.BIN/
+
+
+
+
+!IALPlugin/
