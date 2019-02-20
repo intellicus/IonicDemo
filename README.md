@@ -84,13 +84,13 @@ e.g.
 ```sh
 openReport1() {  
 IALPlugin.new_activity({  
-				[IALPlugin.ENTITY_ID] : "<Report ID of adhoc/OLAP report >",  
-                [IALPlugin.ENTITY_TITLE] : "<Report Title>",  
-                [IALPlugin.ENTITY_TYPE] : "<Entity_Type>",  
-                [IALPlugin.REPORT_DESIGN_MODE] :"<Design_Mode>",  
-                [IALPlugin.INTELLICUS_SERVER_URL] : "<URL of intellicus server>",  
-                [IALPlugin.USERNAME] : "<USERNAME of active user on Intellicus server>",  
-                [IALPlugin.PASSWORD] : "<PASSWORD>"  });  
+				"EntityId" :"<Report ID of adhoc/OLAP report >",  
+                "EntityTitle" : "<Report Title>",  
+                "EntityType" : "<Entity_Type>",  
+                "DesignMode" :"<Design_Mode>",  
+                "ServerUrl" : "<URL of intellicus server>",  
+                "UserName" : "<USERNAME of active user on Intellicus server>",  
+                "Password" : "<PASSWORD>"  });  
 	}  
   
 ```

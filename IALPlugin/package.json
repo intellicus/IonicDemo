@@ -1,0 +1,17 @@
+{
+  "name": "com.intellicus.poc.plugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.intellicus.poc.plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Intellicus Technologies",
+  "license": "ISC"
+}

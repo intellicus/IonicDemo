@@ -1,0 +1,163 @@
+<ion-header>
+  <ion-navbar >
+    <ion-title>
+	<span text-color="title-color"> Intellicus POC</span>
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+<!--
+<ion-content padding>
+    <button ion-button (click) = "openReport1()" icon-start large round color="light">
+    
+   Open Report 1
+  </button>
+   <button ion-button (click) = "openReport2()" icon-start large round color="light">
+    
+   Open Report 2
+  </button>
+  <p>
+    
+  </p>
+</ion-content>
+
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        html{
+            height: 100%;
+            padding:0;
+        }
+ body {
+    height: 100%;
+    padding: 8px;
+    margin:0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+[data-layout] {
+  display: -webkit-flex;
+  display: flex;
+}
+
+[data-layout="row"] {
+  -webkit-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+}
+
+[data-layout="col"] {
+  -webkit-flex-flow: column nowrap;
+  flex-flow: column nowrap;
+}
+
+[data-item="hdr"],
+[data-item="ftr"],
+[data-item="left"],
+[data-item="right"] {
+  -webkit-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+
+[data-item="body"] {
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+div.ftr, div.right,
+[data-item="ftr"],
+[data-item="right"] {
+  -webkit-order: 3;
+  order: 3;
+}
+[data-align="center"] {
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+.item {
+  flex-wrap: wrap;
+  padding-top:50px;
+}
+
+.item > div {
+  margin: 0;
+    width: 50%;
+    padding: 16px;
+    box-sizing: border-box;
+    height: 240px;
+}
+h1{
+    padding:0 0 8px 16px;
+    margin:0;
+}
+h2{
+    font-size:14px;
+}
+.nested{
+ /* background-color:#950F6C; */
+    height:100%;
+    border-radius:2px;
+     border:1px solid #91006A;
+    box-shadow:0 12px 5px -10px rgba(0,0,0,.1), 0 0 4px 0 rgba(0,0,0,.1);
+    padding:8px;
+}
+.thumb{
+  opacity: 0.5;
+}
+h2{
+  text-align: center;
+}
+</style>
+</head>
+<body data-layout="col" data-align="center" style="height:100%">
+    <div data-layout="row" class="item">
+	  <div data-item="body" data-align="center" data-layout="row">
+                    <div data-item="body" data-align="center" class="nested" data-layout="col" (click) = "openMockInterviewPage()" >
+                    <div data-item="hdr">
+                      
+                      <img src="../../assets/imgs/baseline-list_alt-24px.svg" alt="" class="thumb">
+
+                    </div>
+                    <div data-item="hdr"><h2>Setup Mock Interview</h2></div>
+        
+                    </div>
+                </div>
+                <div data-item="body" data-align="center" data-layout="row">
+                        <div data-item="body" data-align="center" class="nested" data-layout="col" (click) = "openCompletedInterviewPage()" >
+                        <div data-item="hdr">
+                          <img src="../../assets/imgs/baseline-assignment_turned_in-24px.svg" alt="" class="thumb">
+                        </div>
+                        <div data-item="hdr"><h2>Completed Interview</h2></div>
+            
+                        </div>
+                    </div>
+        <div data-item="body" data-align="center" data-layout="row" (click) = "openReport1()">
+            <div data-item="body" data-align="center" class="nested" data-layout="col" >
+            <div data-item="hdr">
+              <img src="../../assets/imgs/reports.svg" alt="" class="thumb">
+            </div>
+            <div data-item="hdr"><h2>Recruitment Trend</h2></div>
+
+            </div>
+        </div>
+        <div data-item="body" data-align="center" data-layout="row" (click) = "openReport2()">
+                <div data-item="body" data-align="center" class="nested" data-layout="col" >
+                <div data-item="hdr">
+                  <img src="../../assets/imgs/baseline-assessment-24px.svg" alt="" class="thumb">
+                </div>
+                <div data-item="hdr"><h2>Vacancy Distribution</h2></div>
+                
+                </div>
+            </div>
+          
+        
+      </div>
+</body>
+</html>
