@@ -8,7 +8,7 @@ ii. IntegrationDemo folder contains a sample Ionic application
 iii. IALPlugin and IILPlugin folders contain Cordova plugin for intellicus  
 (We will use path of IALPlugin and IILPlugin folders in later part of this guide)*
 
-Note : Please raise a request @'supportteam@intellicus.com' to get IntellicusiOSFramework and place it at 'plugins/cordova_plugin_intellicus_reports/src/ios/' to run demo project on iOS
+Note : Please raise a request @'supportteam@intellicus.com' to get IntellicusiOSFramework and SQLite.framwork. Place them at 'plugins/cordova_plugin_intellicus_reports/src/ios/' to run demo project on iOS
 
 2. Create new sample ionic 3 project (if not created earlier)  
 i. Open terminal  
@@ -36,7 +36,7 @@ ionic cordova plugin add <path to IALPlugin>
 *where <path to IALPlugin> is the full path of the ..../IALPlugin folder(you extracted from .zip)  
 
 5.    Add iOS platform in Ionic application (if not added earlier)  
-Note : Please raise a request @'supportteam@intellicus.com' to get IntellicusiOSFramework and place it at 'src/ios/' in IILPlugin, before adding plugin to your project
+Note : Please raise a request @'supportteam@intellicus.com' to get IntellicusiOSFramework and SQLite.framework. Place them at 'src/ios/' in IILPlugin, before adding plugin to your project
 
 i. Open Terminal  
 ii.    Navigate to Ionic 3 project root directory  
