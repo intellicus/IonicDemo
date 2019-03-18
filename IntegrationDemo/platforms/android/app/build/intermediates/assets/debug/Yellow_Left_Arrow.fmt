@@ -1,0 +1,6 @@
+<FORMAT NAME="Yellow_Left_Arrow" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
+<Style Name="Normal"/>
+<IMAGE Name="yellow_left_arrow.png" />
+<FOCUS_FORMAT REFERENCED="Bold">
+</FOCUS_FORMAT>
+</FORMAT>

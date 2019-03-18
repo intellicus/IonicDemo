@@ -1,0 +1,6 @@
+<FORMAT NAME="Red_Right_Top_Arrow" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
+<Style Name="Normal"/>
+<IMAGE Name="red_right_top_arrow.png" />
+<FOCUS_FORMAT REFERENCED="Bold">
+</FOCUS_FORMAT>
+</FORMAT>

@@ -1,0 +1,6 @@
+<FORMAT NAME="Silver_Star" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
+<Style Name="Normal"/>
+<IMAGE Name="silver_star.png" />
+<FOCUS_FORMAT REFERENCED="Bold">
+</FOCUS_FORMAT>
+</FORMAT>

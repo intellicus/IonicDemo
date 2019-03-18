@@ -1,0 +1,93 @@
+{
+	"palette": {
+		"IntellicusClassic": {
+			"name": "Intellicus Classic",
+			"id": "IntellicusClassic",
+			"colors": ["#03a8d9", "#9ba81a", "#8b118d", "#e68c0b", "#03589e", "#e6bd08", "#069f92", "#ce2535"],
+			"lightColors": ["#7ac9df", "#c3cb81", "#c78cc7", "#e7c491", "#689bc5", "#f0d86b", "#66cccc", "#ff9999"],
+			"darkColors": ["#09799b", "#7d880c", "#6a0b6c", "#996600", "#034479", "#cc9933", "#069f92", "#C61122"],
+			"type": "DISCRETE",
+			"swatchPerRow": 4,
+			"default": true
+		},
+		"Intellicus16": {
+			"name": "Intellicus 16",
+			"id": "Intellicus16",
+			"colors": ["#03a8d9", "#99ccff", "#9ba81a", "#c3cb81", "#8b118d", "#c78cc7", "#e68c0b", "#e7c491", "#03589e", "#689bc5", "#e6bd08", "#f0d86b", "#069f92", "#66cccc", "#db2c3d", "#f0a8ae"],
+			"lightColors": ["#99ccff", "#99ccff", "#c3cb81", "#c3cb81", "#c78cc7", "#c78cc7", "#e7c491", "#e7c491", "#689bc5", "#689bc5", "#f0d86b", "#f0d86b", "#66cccc", "#66cccc", "#f0a8ae", "#f0a8ae"],
+			"darkColors": ["#03a8d9", "#03a8d9", "#9ba81a", "#9ba81a", "#8b118d", "#8b118d", "#e68c0b", "#e68c0b", "#03589e", "#03589e", "#e6bd08", "#e6bd08", "#069f92", "#069f92", "#C61122", "#C61122"],
+			"type": "DISCRETE",
+			"swatchPerRow": 8
+		},
+		"Intellicus7": {
+			"name": "Intellicus 7",
+			"id": "Intellicus7",
+			"colors": ["#81a4ea", "#7db944", "#ed9853", "#fc7362", "#e288b9", "#ffd92f", "#5dd6ec", "#a681cc", "#bbd854", "#c57281", "#939da5", "#e2d9ca"],
+			"type": "DISCRETE",
+			"swatchPerRow": 4
+		},
+		"pastel": {
+			"name": "Pastel Colors",
+			"id": "pastel",
+			"colors": ["#34705A", "#CA4B65", "#D2615F", "#9A261E", "#585562", "#276998", "#A1854C", "#75443D"],
+			"lightColors": ["#A3BFB4", "#D6A7B1", "#DAB1B0", "#CCA6A4", "#B8B7Bc", "#9EBACF", "#CFC5B1", "#C8B8B4"],
+			"darkColors": ["#1D3F32", "#812739", "#8A2826", "#4A130F", "#3D3A43", "#1B4667", "#705C34", "#4F2E28"],
+			"type": "DISCRETE",
+			"swatchPerRow": 4
+		},
+		"coffee": {
+			"name": "Coffee Cup",
+			"id": "coffee",
+			"colors": ["#344857", "#A4A8A7", "#CB585B", "#959490", "#504146", "#C18676", "#7D5F6E", "#5A5445"],
+			"lightColors": ["#AAB3BB", "#C0C1C1", "#DDAEB0", "#C7C7C4", "#B4ADB0", "#CEB6AF", "#BEB1B8", "#B7B4AC"],
+			"darkColors": ["#202D35", "#4B504F", "#9B3134", "#5E5C59", "#34292D", "#724234", "#58434E", "#3D382E"],
+			"type": "DISCRETE",
+			"swatchPerRow": 4
+		},
+		"metro": {
+			"name": "Metro Colors",
+			"id": "metro",
+			"colors": ["#DB5094", "#F3AE0B", "#6886BD", "#CC3333", "#44C1ED", "#7EB4CA", "#20B16D", "#3E9FF8"],
+			"lightColors": ["#F489BE", "#FEF4DE", "#CFD9EB", "#F8E0E0", "#D2F1FB", "#E2EEF3", "#E6FBF1", "#DEEFFE"],
+			"darkColors": ["#990066", "#956A06", "#31466F", "#932424", "#107CA0", "#316277", "#157748", "#054E8F"],
+			"type": "DISCRETE",
+			"swatchPerRow": 4
+		},
+		"sageGreen": {
+			"name": "Sage Green and Cream",
+			"id": "sageGreen",
+			"colors": ["#84A19C", "#486034", "#737824", "#A08A6E", "#89594D", "#4B452B", "#BB9D85", "#A7643D"],
+			"lightColors": ["#D2DDDB", "#E6EEDF", "#EFF1CF", "#E7E1DA", "#EADCD9", "#ECE9DD", "#F0E9E3", "#F2E3DB"],
+			"darkColors": ["#3F524F", "#304022", "#404213", "#663300", "#993333", "#333333", "#663333", "#993300"],
+			"type": "DISCRETE",
+			"swatchPerRow": 4
+		},
+		"forma": {
+			"name": "Forma Silvestris",
+			"id": "forma",
+			"colors": ["#6F84A6", "#9AA9BB", "#707070", "#282828", "#24222F", "#605A68", "#B19391", "#939790"],
+			"lightColors": ["#E1E6EC", "#DFE4EA", "#E1E1E1", "#EAEAEA", "#D9D7E1", "#DFDDE1", "#EDE4E4", "#E6E7E4"],
+			"darkColors": ["#354155", "#35414F", "#484848", "#191919", "#14131C", "#252327", "#42302F", "#383A36"],
+			"type": "DISCRETE",
+			"swatchPerRow": 4
+		},
+		"earth": {
+			"name": "Spa Earth",
+			"id": "earth",
+			"colors": ["#1B85B8", "#5A5255", "#559E83", "#AE5A41", "#C3CB71", "#93ACC6", "#87AD87", "#4DA6B9"],
+			"lightColors": ["#99ccff", "#E0DEDF", "#D0E6DE", "#E9CDC5", "#E9ECCA", "#DCE4ED", "#C9DCC9", "#F3D6C7"],
+			"darkColors": ["#135C80", "#302C2E", "#346150", "#562D21", "#71782C", "#2F4459", "#385238", "#693116"],
+			"type": "DISCRETE",
+			"swatchPerRow": 4
+		},
+		"dark5": {
+			"name": "Cappuccino",
+			"id": "dark5",
+			"colors": ["#663333", "#D6BAA9", "#3C1E1E", "#7D5F6E", "#853D41", "#D58971", "#776855", "#9C6A4F"],
+			"lightColors": ["#E8D0D0", "#E7D3CB", "#E2C5C5", "#D9CCD2", "#EBD3D5", "#F0D7CE", "#E1DCD5", "#EADCD5"],
+			"darkColors": ["#361D1D", "#422C20", "#5B2D2D", "#45343D", "#381B1C", "#5A2B1B", "#2B251E", "#3E2B20"],
+			"type": "DISCRETE",
+			"swatchPerRow": 4
+		}
+	}
+}

@@ -1,0 +1,6 @@
+<FORMAT NAME="Yellow_Triangle" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
+<Style Name="Normal"/>
+<IMAGE Name="yellow_triangle.png" />
+<FOCUS_FORMAT REFERENCED="Bold">
+</FOCUS_FORMAT>
+</FORMAT>

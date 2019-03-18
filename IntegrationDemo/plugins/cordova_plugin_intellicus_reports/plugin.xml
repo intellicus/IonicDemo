@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova_plugin_intellicus_reports" version="0.1.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>IILPlugin</name>
+    <js-module name="Intellicus_Reports" src="www/Intellicus_Reports.js">
+        <clobbers target="Intellicus_Reports" />
+    </js-module>
+    <platform name="ios"><config-file parent="/*" target="config.xml">
+        <feature name="Intellicus_Reports">
+            <param name="ios-package" value="Intellicus_Reports" />
+        </feature>
+    </config-file>
+    <source-file src="src/ios/Intellicus_Reports.m" />
+    <source-file src="src/ios/DismissableViewController.m" />
+    <header-file src="src/ios/DismissableViewController.h" />
+    <source-file src="src/ios/NativeViewController.m" />
+    <header-file src="src/ios/NativeViewController.h" />    
+    <resource-file src="src/ios/NativeViewController.xib" />
+    <resource-file src="src/ios/IntellicusTheme/Default_iPad.iiltheme.plist" />
+    <resource-file src="src/ios/IntellicusTheme/Default.iiltheme.plist" />
+    <framework src="src/ios/intellicusiOSLib.framework" embed="true" custom="true"/>
+    <framework src="src/ios/SQLite.framework" embed="true" custom="true"/>
+    </platform>
+</plugin>

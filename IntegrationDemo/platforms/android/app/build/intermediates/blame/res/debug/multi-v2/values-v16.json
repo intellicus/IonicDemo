@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\ionic iOS\\IonicDemo\\IntegrationDemo\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vinit.thakur\\.gradle\\caches\\transforms-1\\files-1.1\\intellicusLib.aar\\b0521763e978c6fbf7dc14d7ed47ee5f\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,199",
+                        "endLines": "4,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "194,337"
+                    },
+                    "to": {
+                        "startLines": "3,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "121,265",
+                        "endLines": "5,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "260,403"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vinit.thakur\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f56f9531535f93efee81a441ffe3d9a6\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "408",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "576"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vinit.thakur\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\534580115d3dac1c023886e4cf1a3604\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "D:\\ionic iOS\\IonicDemo\\IALPlugin",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "D:\\ionic iOS\\IonicDemo\\IALPlugin",
+        "spec": "D:\\ionic iOS\\IonicDemo\\IALPlugin",
+        "type": "directory"
+      },
+      "D:\\ionic iOS\\IonicDemo\\IntegrationDemo"
+    ]
+  ],
+  "_from": "..\\IALPlugin",
+  "_id": "com.intellicus.poc.plugin@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/com.intellicus.poc.plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "D:\\ionic iOS\\IonicDemo\\IALPlugin",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "D:\\ionic iOS\\IonicDemo\\IALPlugin",
+    "spec": "D:\\ionic iOS\\IonicDemo\\IALPlugin",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\IALPlugin",
+  "_shasum": "fea1f8acbaf24592b84bbfb855866a8ffaffff5f",
+  "_shrinkwrap": null,
+  "_spec": "D:\\ionic iOS\\IonicDemo\\IALPlugin",
+  "_where": "D:\\ionic iOS\\IonicDemo\\IntegrationDemo",
+  "author": {
+    "name": "Intellicus Technologies"
+  },
+  "cordova": {
+    "id": "com.intellicus.poc.plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "com.intellicus.poc.plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.1"
+}
