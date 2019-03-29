@@ -1,6 +1,0 @@
-<FORMAT NAME="Red_Circle" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
-<Style Name="Normal"/>
-<IMAGE Name="red_circle.png" />
-<FOCUS_FORMAT REFERENCED="Bold">
-</FOCUS_FORMAT>
-</FORMAT>

@@ -1,6 +1,0 @@
-<FORMAT NAME="Red_Cross" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
-<Style Name="Normal"/>
-<IMAGE Name="red_cross.png" />
-<FOCUS_FORMAT REFERENCED="Bold">
-</FOCUS_FORMAT>
-</FORMAT>

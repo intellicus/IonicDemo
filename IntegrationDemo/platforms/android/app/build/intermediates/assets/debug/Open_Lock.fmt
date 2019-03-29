@@ -1,6 +1,0 @@
-<FORMAT NAME="Open_Lock" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
-<Style Name="Normal"/>
-<IMAGE Name="open_lock.png" />
-<FOCUS_FORMAT REFERENCED="Bold">
-</FOCUS_FORMAT>
-</FORMAT>

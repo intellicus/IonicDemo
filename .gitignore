@@ -3,13 +3,13 @@
 
 *~
 
-IntegrationPOC/.sourcemaps/
-IntegrationPOC/node_modules/
-IntegrationPOC/platforms/
-IntegrationPOC/plugins/
-IntegrationPOC/plugins/android.json
-IntegrationPOC/plugins/ios.json
-IntegrationPOC/www/
+IntegrationDemo/.sourcemaps/
+IntegrationDemo/node_modules/
+IntegrationDemo/platforms/
+IntegrationDemo/plugins/
+IntegrationDemo/plugins/android.json
+IntegrationDemo/plugins/ios.json
+IntegrationDemo/www/
 
 $RECYCLE.BIN/
 

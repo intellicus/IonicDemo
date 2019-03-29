@@ -1,5 +1,0 @@
-<FORMAT NAME="Text_White" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
-	<Style Name="Normal" Value=" color:rgb(255, 255, 255);"/>
-	<FOCUS_FORMAT REFERENCED="Bold">
-	</FOCUS_FORMAT>
-</FORMAT>

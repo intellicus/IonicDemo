@@ -1,6 +1,0 @@
-<FORMAT NAME="Green_Tick" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
-<Style Name="Normal"/>
-<IMAGE Name="green_tick.png" />
-<FOCUS_FORMAT REFERENCED="Bold">
-</FOCUS_FORMAT>
-</FORMAT>

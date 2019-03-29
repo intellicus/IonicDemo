@@ -1,5 +1,0 @@
-<FORMAT NAME="Olive_Green" HASSTYLE="TRUE" HASFOCUSFORMAT="TRUE">
-	<Style Name="Normal" Value="background-color:rgb(128,128,0);"/>
-	<FOCUS_FORMAT REFERENCED="Bold">
-	</FOCUS_FORMAT> 
-</FORMAT>
